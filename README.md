@@ -1,10 +1,10 @@
 # 💫About Me :
-Hi 👋, I'm Guilherme Romanholo.
+Hi, I'm Guilherme Romanholo.
  
 I'm Computer Science student in Unesp and interested 
 in learn more about new technologies.
 
-🌱 I’m currently learning Linux, Computer Networking, 
+I’m currently learning Linux, Computer Networking, 
 Programming Languages, OOP, Data Structures, etc ...
 
 # 💻Tech Stack
