@@ -18,6 +18,6 @@
 </div>
 
 <div>
-  <h1>Status do Github</h1>
+  <h1>Meus status</h1>
 </div>
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
