@@ -16,3 +16,8 @@
   <h3>Outros</h3>
     <img src="https://skillicons.dev/icons?i=sqlite,postgresql,django,linux,vim" />
 </div>
+
+<div>
+  <h1>Status do Github</h1>
+</div>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
