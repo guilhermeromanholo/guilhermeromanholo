@@ -11,7 +11,7 @@
     <li>Redes de Computadores</li>
     <li>Programação Orientada à Objetos</li>
     <li>Linguagens de Programação</li>
-    <li>Cybersecutiry</li>
+    <li>Cybersecurity</li>
   </ul>
   <h3>Linguagens</h3>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin" />
