@@ -14,7 +14,7 @@
     <li>Cybersecurity</li>
   </ul>
   <h3>Linguagens</h3>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,nix,java,kotlin" />
   <h3>Outros</h3>
     <img src="https://skillicons.dev/icons?i=sqlite,git,figma,linux,bash" />
 </div>
