@@ -15,7 +15,7 @@
     <li>Linux</li>
   </ul>
   <h3>Linguagens</h3>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,nix,java,kotlin" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,nix,java" />
   <h3>Outros</h3>
     <img src="https://skillicons.dev/icons?i=git,linux,bash,django,docker,postgres,sqlite,nginx" />
 </div>
