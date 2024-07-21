@@ -9,9 +9,9 @@
   <h3>Tópicos</h3>
   <ul>
     <li>Redes de Computadores</li>
-    <li>Programação Orientada à Objetos</li>
-    <li>Linguagens de Programação</li>
     <li>Cybersecurity</li>
+    <li>Django Framework</li>
+    <li>DevOps</li>
   </ul>
   <h3>Linguagens</h3>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,nix,java,kotlin" />
