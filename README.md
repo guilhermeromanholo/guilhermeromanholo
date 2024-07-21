@@ -12,6 +12,7 @@
     <li>Cybersecurity</li>
     <li>Django Framework</li>
     <li>DevOps</li>
+    <li>Linux</li>
   </ul>
   <h3>Linguagens</h3>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,nix,java,kotlin" />
