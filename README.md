@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Bem vindo! Eu me chamo Guilherme 👋</h1>
-  <p>Eu tenho 20 anos e atualmente estou cursando o 3° ano de Ciência da Computação.<br/>Sinta-se a vontade para navegar pelos projetos armazenados nesse perfil.</p>
+  <p>Eu tenho 21 anos e atualmente estou cursando o 3° ano de Ciência da Computação.<br/>Sinta-se a vontade para navegar pelos projetos armazenados nesse perfil.</p>
 </div>
 
 <div>
