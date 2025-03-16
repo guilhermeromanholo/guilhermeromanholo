@@ -20,11 +20,3 @@
     <img src="https://skillicons.dev/icons?i=git,linux,bash,django,docker,postgres,sqlite,nginx" />
 </div>
 
-<div>
-  <h1>Meus status 📊</h1>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/?username=guilherme-romanholo&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=e2ffff&bg_color=28292d" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilherme-romanholo&theme=xcode"/> 
-  </div>
-</div>
-
